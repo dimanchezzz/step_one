@@ -1,0 +1,6 @@
+F:\projects\step_one\step_one\bin\Debug\step_one.exe.config
+F:\projects\step_one\step_one\bin\Debug\step_one.exe
+F:\projects\step_one\step_one\bin\Debug\step_one.pdb
+F:\projects\step_one\step_one\obj\Debug\step_one.csprojResolveAssemblyReference.cache
+F:\projects\step_one\step_one\obj\Debug\step_one.exe
+F:\projects\step_one\step_one\obj\Debug\step_one.pdb
